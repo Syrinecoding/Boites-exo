@@ -1,0 +1,49 @@
+@font-face {
+    font-family: Lato sans-serif; src: url(Lato/Lato-Regular.ttf) ; font-display: swap; 
+}
+body {
+    background: white url(mountain.jpg) no-repeat;
+    margin: 0;
+    font-family: Lato sans-serif;
+}
+.container {
+    background: white ; opacity: 0.8;
+    color: darkblue;
+    width: 50%;
+    height: 550px;
+    margin: 20px;
+    padding: 30px 50px;
+    line-height: 32px;
+    font-size: 20px;
+    font-weight: 400;
+}
+.container h1 {
+    text-align: center;
+    font-weight: bold;
+    background: white;
+    opacity: 1;
+    border: darkblue solid 1px;
+    padding: 10px 20px;
+}
+.encadré {
+    border: darkblue solid 1px;
+    padding: 5px;
+    font-size: larger;
+}
+.container h2 {
+    font-family: Lato serif;
+}
+.fondturquoise {
+    background: darkblue;
+    color: cyan;
+    padding: 4px;
+}
+.fondblanc {
+    background: darkblue;
+    color: white;
+    padding: 4px;
+}
+.darkblue {
+    background: cyan;
+    padding: 4px;
+}
